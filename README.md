@@ -7,4 +7,4 @@ Install packages
 npm install
 
 run app
-npm run start
+npm run dev
