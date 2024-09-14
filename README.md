@@ -1,10 +1,10 @@
 # Reactjs
 
-create app
+## Create app
 npx create-react-app <appName>
 
-Install packages
+## Install packages
 npm install
 
-run app
+## Run app
 npm run dev
